@@ -214,3 +214,11 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 1500);
     });
 });
+
+     const aumentaFonteBotao = document.getElementById('aumentar-fonte');
+     const aumentaFonteBotao = document.getElementById('aumentar-fonte');
+
+    let tamanhoAtualFonte = 1;
+
+       aumentaFonteBotao.addEventListener('click', function(){
+        tamanhoAtualFonte+=0,1;}
